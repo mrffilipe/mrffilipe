@@ -30,7 +30,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrffilipe&show_icons=true&theme=blue-green" alt="mrffilipe stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrffilipe&layout=compact&theme=blue-green" alt="mrffilipe most languages"/>
+<p width="530em" align="left">
+<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrffilipe&show_icons=true&theme=blue-green" alt="mrffilipe stats"/>
+<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrffilipe&layout=compact&theme=blue-green" alt="mrffilipe most languages"/>
 </p>

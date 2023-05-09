@@ -6,11 +6,13 @@
 
 - 👨‍💻 Seeking job opportunities and projects in [LinkedIn](https://www.linkedin.com/in/filipemrf)
 
-- 💬 Ask me about **C#, dotNET, Javascript, HTML, CSS, SQL, Node.JS, ReactJS, React Native, Docker, WebApis**
+- 💬 Ask me about **C#, dotNET, Javascript, C, C++, HTML, CSS, SQL, Node.JS, ReactJS, React Native, Docker, WebApis**
 
 ## 🛠 &nbsp;Tech Stack
 
 ![.NET](https://img.shields.io/badge/-dotNET-05122A?style=flat&logo=.NET)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mySql-05122A?style=flat&logo=MySql)&nbsp;

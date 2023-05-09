@@ -1,12 +1,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrffilipe&color=green" alt="Profile views" /> </p>
 
+- 📍 I live in Goiania, Brazil.
+
 - 🔥 Passionate about technology, 5+ years of experience.
 
-- 🔭 I’m currently working at [Empel Engenharia](https://empel.com.br)
+- 🔭 I’m currently working at [Empel Engenharia](https://empel.com.br).
 
-- 👨‍💻 Seeking job opportunities and projects in [LinkedIn](https://www.linkedin.com/in/filipemrf)
+- 👨‍💻 Seeking job opportunities and projects in [LinkedIn](https://www.linkedin.com/in/filipemrf).
 
-- 💬 Ask me about **C#, dotNET, Javascript, C, C++, HTML, CSS, SQL, Node.JS, ReactJS, React Native, Docker, WebApis**
+- 💬 Ask me about **C#, dotNET, Javascript, C, C++, HTML, CSS, SQL, Node.JS, ReactJS, React Native, Docker, WebApis**.
 
 ## 🛠 &nbsp;Tech Stack
 

@@ -27,7 +27,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p>
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=mrffilipe&show_icons=true&theme=blue-green" alt="mrffilipe stats"/>
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrffilipe&show_icons=true&theme=blue-green" alt="mrffilipe stats"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrffilipe&layout=compact&theme=blue-green" alt="mrffilipe most languages"/>
 </p>

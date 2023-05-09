@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FilipeMrFerracioli&color=green" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrffilipe&color=green" alt="Profile views" /> </p>
 
 - 🔥 Passionate about technology, 5+ years of experience.
 
@@ -27,6 +27,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=FilipeMrFerracioli&show_icons=true&theme=blue-green" alt="MrF Filipe stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeMrFerracioli&layout=compact&theme=blue-green" alt="MrF Filipe most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mrffilipe&show_icons=true&theme=blue-green" alt="mrffilipe stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrffilipe&layout=compact&theme=blue-green" alt="mrffilipe most languages"/>
 </p>

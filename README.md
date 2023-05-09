@@ -6,7 +6,7 @@
 
 - 👨‍💻 Seeking job opportunities and projects in [LinkedIn](https://www.linkedin.com/in/filipemrf)
 
-- 💬 Ask me about **C#, dotNET, Javascript, HTML, CSS, SQL, Node.JS, ReactJS, React Native, DOCKER, WebApis**
+- 💬 Ask me about **C#, dotNET, Javascript, HTML, CSS, SQL, Node.JS, ReactJS, React Native, Docker, WebApis**
 
 ## 🛠 &nbsp;Tech Stack
 

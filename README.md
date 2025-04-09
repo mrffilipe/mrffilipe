@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mrffilipe&color=blue" alt="Profile views"/>
+</p>
+
 <h1 align="center">Filipe Ferraioli 👋</h1>
 
 <p align="center">
@@ -6,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://codebymister.com.br" target="_blank">🌐 codebymister.com.br</a> •
-  <a href="https://www.linkedin.com/in/filipeferraioli/" target="_blank">💼 LinkedIn</a> •
-  <a href="https://github.com/mrffilipe" target="_blank">💻 GitHub</a>
+  🔗 <a href="https://codebymister.com.br" target="_blank">codebymister.com.br</a> •
+  💼 <a href="https://www.linkedin.com/in/filipeferraioli/" target="_blank">LinkedIn</a> •
+  💻 <a href="https://github.com/mrffilipe" target="_blank">GitHub</a>
 </p>
 
 ---
@@ -20,10 +24,11 @@ Sou Filipe, um desenvolvedor backend apaixonado por engenharia de software. Inic
 Nos últimos anos, atuei como freelancer, desenvolvendo sistemas robustos e APIs escaláveis para diferentes nichos — de energia solar a saúde e entretenimento. Gosto de escrever código limpo, manter boas conversas com o time e entregar valor de verdade.
 
 Atualmente focado em projetos que envolvem:
-- C#/.NET com APIs REST
-- Arquitetura Limpa, DDD e mensageria com RabbitMQ
-- Integrações com bancos SQL e NoSQL
-- Um pezinho no frontend com React e Next.js
+
+- C#/.NET com APIs REST  
+- Arquitetura Limpa, DDD e mensageria com RabbitMQ  
+- Integrações com bancos SQL e NoSQL  
+- Um pezinho no frontend com React e Next.js  
 
 ---
 
@@ -42,11 +47,11 @@ Atualmente focado em projetos que envolvem:
 
 ### 🔎 Alguns fatos sobre mim
 
-- 💼 Atualmente disponível para oportunidades profissionais
-- 📍 Baseado em Goiânia, GO — Brasil
-- 🎯 Foco em qualidade, clareza e impacto real
-- 🤖 Fã de Transformers (Bumblebee 🚗💛 sempre foi meu favorito)
-- 🧠 Estudando eletrônica e Arduino nas horas vagas
+- 💼 Atualmente disponível para oportunidades profissionais  
+- 📍 Baseado em Goiânia, GO — Brasil  
+- 🧠 Foco em qualidade, clareza e impacto real  
+- 🤖 Fã de Transformers (Bumblebee 🚗💛 é meu favorito)  
+- 🔌 Estudando eletrônica e Arduino nas horas vagas  
 
 ---
 
@@ -61,6 +66,9 @@ Atualmente focado em projetos que envolvem:
 
 ### 📌 Repositórios em destaque
 
-Aqui você encontrará alguns projetos pessoais e estudos. Em breve, irei adicionar alguns dos cases reais que desenvolvi como freelancer 🚀
+Aqui você encontrará alguns projetos pessoais e estudos.  
+> Em breve, irei adicionar também os **cases reais** que desenvolvi como freelancer 🚀
 
-> 💡 Dica: clique na aba "Pinned" acima para ver os principais!
+💡 *Dica:* clique na aba “Pinned” acima para ver os principais!
+
+---

@@ -55,7 +55,7 @@ Atuando como freelancer, tenho ajudado negócios de diversos nichos — de energ
     <img src="https://streak-stats.demolab.com/?user=mrffilipe&theme=tokyonight&hide_border=true&background=00000000" height="160" alt="GitHub Streak"/>
   </a>
   <a href="https://github.com/mrffilipe">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrffilipe&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=86400" height="160" alt="Top Languages"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrffilipe&theme=tokyonight" height="160" alt="Top Languages"/>
   </a>
 </div>
 

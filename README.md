@@ -1,13 +1,13 @@
 <div align="center">
 
-# ⚡ Filipe Ferraioli
+# ⚡ Filipe Moreira Ferraioli
 
 **Engenheiro de Software | Especialista C# & .NET | Arquitetura Limpa**
 
 *“Code is temporary, architecture is forever.”*
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://codebymister.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrffilipe/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipeferraioli/)
 [![Views](https://komarev.com/ghpvc/?username=mrffilipe&label=Profile%20Views&color=000000&style=for-the-badge)](#)
 
 ---
@@ -52,16 +52,16 @@ Atuando como freelancer, tenho ajudado negócios de diversos nichos — de energ
 
 <div align="center">
   <a href="https://github.com/mrffilipe">
-    <img src="https://github-readme-stats.vercel.app/api?username=mrffilipe&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000" height="160" alt="GitHub Stats"/>
+    <img src="https://streak-stats.demolab.com/?user=mrffilipe&theme=tokyonight&hide_border=true&background=00000000" height="160" alt="GitHub Streak"/>
   </a>
   <a href="https://github.com/mrffilipe">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrffilipe&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrffilipe&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=86400" height="160" alt="Top Languages"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <em>📍 Goiânia, GO — Brasil.</em><br>
+  <em>📍Goiânia, GO — Brasil.</em><br>
   <b>Veja meus repositórios fixados (Pinned) abaixo para conferir projetos, estudos e cases reais! 🚀</b>
 </div>

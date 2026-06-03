@@ -18,7 +18,7 @@
 
 Sou um desenvolvedor backend apaixonado por engenharia de software e arquitetura de sistemas. Com uma trajetória que começou na lógica de jogos em Unity, hoje meu foco absoluto é construir **sistemas robustos, seguros e altamente escaláveis**.
 
-Atuando como freelancer, tenho ajudado negócios de diversos nichos — de energia solar e saúde a plataformas de entretenimento e SaaS — a transformar ideias em soluções de alta performance. O que me move é entregar valor real através de um código limpo, testável e bem estruturado.
+Atuando como freelancer, tenho ajudado negócios de diversos nichos, de energia solar e saúde a plataformas de entretenimento e SaaS, a transformar ideias em soluções de alta performance. O que me move é entregar valor real através de um código limpo, testável e bem estruturado.
 
 ### 🎯 Foco Atual & Especialidades
 - **Backend & Arquitetura:** C#/.NET, Clean Architecture, Domain-Driven Design (DDD) e Multi-tenancy.
